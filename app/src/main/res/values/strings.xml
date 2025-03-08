@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anime Movies</string>
+
+    <!-- 1. Arrietty -->
+    <string name="arrietty">Arrietty</string>
+    <string name="arrietty_desc">She\'s tiny, she\'s sneaky, and she lives under your floorboards! Arrietty is part of the Borrowers, a family who secretly \"borrow\" everyday items from humans. But when she befriends a boy who sees her, their bond threatens to expose her hidden world. Sometimes, the smallest friendships can make the biggest impact!</string>
+
+    <!-- 2. A Silent Voice -->
+    <string name="a_silent_voice">A Silent Voice</string>
+    <string name="a_silent_voice_desc">Shoya Ishida once bullied Shoko, a deaf girl, in elementary school. Years later, he\'s consumed by regret and determined to make amends. Dive into this emotional rollercoaster that tackles guilt, forgiveness, and the silent bonds that can unite us despite our differences.</string>
+
+    <!-- 3. Earwig and the Witch -->
+    <string name="earwig_and_the_witch">Earwig and the Witch</string>
+    <string name="earwig_and_the_witch_desc">Earwig is a spunky orphan who always gets her way—until she\'s adopted by a mysterious witch with no intention of pampering her. Locked in a house brimming with sorcery and secrets, Earwig decides she won\'t be bossed around. Cue mischievous spells, a pinch of rock \'n\' roll, and a battle of wits!</string>
+
+    <!-- 4. From Up on Poppy Hill -->
+    <string name="from_up_on_poppy_hill">From Up on Poppy Hill</string>
+    <string name="from_up_on_poppy_hill_desc">It\'s the 1960s in Yokohama. High schoolers Umi and Shun team up to save their beloved clubhouse from demolition, all while navigating the stirrings of first love. But a buried family secret looms overhead. Nostalgic, heartwarming, and full of youthful spirit—this is a gentle ode to Japan\'s post-war optimism.</string>
+
+    <!-- 5. Grave of the Fireflies -->
+    <string name="grave_of_the_fireflies">Grave of the Fireflies</string>
+    <string name="grave_of_the_fireflies_desc">Grab tissues—you\'ll need them. War-torn Japan sets the stage for Seita and Setsuko, two siblings fighting to survive against all odds. It\'s a poignant story of innocence lost, the cruelty of war, and the unbreakable love between brother and sister. Haunting, beautiful, and guaranteed to tug at your heart.</string>
+
+    <!-- 6. Howl's Moving Castle -->
+    <string name="howls_moving_castle">Howl\'s Moving Castle</string>
+    <string name="howls_moving_castle_desc">Sophie, cursed into an old woman by a jealous witch, seeks refuge in the wandering castle of the flamboyant wizard Howl. Talking fire demons, airborne battles, and a war that threatens their very world—Sophie soon discovers true magic lies in love, courage, and self-acceptance.</string>
+
+    <!-- 7. Kiki's Delivery Service -->
+    <string name="kikis_delivery_service">Kiki\'s Delivery Service</string>
+    <string name="kikis_delivery_service_desc">At 13, every witch-in-training must leave home. Kiki sets up shop in a coastal town, offering a unique broomstick delivery service—until self-doubt and homesickness hit hard. With the help of a sarcastic black cat and supportive friends, Kiki learns that believing in herself is the greatest magic of all.</string>
+
+    <!-- 8. Your Name (Kimi no Na wa) -->
+    <string name="kimi_no_na_wa">Your Name</string>
+    <string name="kimi_no_na_wa_desc">Taki and Mitsuha keep waking up in each other\'s bodies—total strangers connected by fate. At first, it\'s a hilarious mix-up, but it turns into a race against time when they realize something far bigger is at play. A visually stunning, heart-stirring tale of love, fate, and the mysterious threads that bind us.</string>
+
+    <!-- 9. Castle in the Sky (Laputa) -->
+    <string name="castle_in_the_sky">Castle in the Sky</string>
+    <string name="castle_in_the_sky_desc">A magic crystal, sky pirates, and a legendary floating city—welcome to Laputa! When Sheeta and Pazu set out to uncover its secrets, they find themselves chased by a corrupt military. Brimming with adventure, friendship, and old-school charm, this high-flying classic will leave you dreaming of lost civilizations.</string>
+
+    <!-- 10. Mary and the Witch's Flower -->
+    <string name="mary_and_the_witchs_flower">Mary and the Witch\'s Flower</string>
+    <string name="mary_and_the_witchs_flower_desc">One mysterious glowing flower grants Mary unexpected magical powers—and an invitation to the illustrious Endor College for witches. But beneath the spells and broomsticks lies a darker truth. With pluck and determination, Mary must save the day before her newfound power runs out!</string>
+
+    <!-- 11. Mirai -->
+    <string name="mirai">Mirai</string>
+    <string name="mirai_desc">Four-year-old Kun hates sharing his parents with his new baby sister. But when a strange garden gate sends him whirling through time, he meets future family members (including teenage Mirai!). A heartwarming journey of sibling love, family bonds, and the growing pains of childhood.</string>
+
+    <!-- 12. My Neighbor Totoro -->
+    <string name="my_neighbor_totoro">My Neighbor Totoro</string>
+    <string name="my_neighbor_totoro_desc">Satsuki and Mei move to the countryside to be closer to their ailing mother—and discover Totoro, a giant cuddly forest spirit with a grin as big as his belly. Between magical rides in a Catbus and midnight forest adventures, it’s a whimsical ode to childhood wonder and the healing power of nature.</string>
+
+    <!-- 13. Nausicaä of the Valley of the Wind -->
+    <string name="nausicaa_valley_of_the_wind">Nausicaä of the Valley of the Wind</string>
+    <string name="nausicaa_valley_of_the_wind_desc">In a post-apocalyptic world, Princess Nausicaä fights to save her valley from warring factions and giant insects within a toxic jungle. Courageous and compassionate, she believes humans and nature can coexist. A timeless eco-adventure that proves real heroism is born from empathy and hope.</string>
+
+    <!-- 14. Ocean Waves -->
+    <string name="ocean_waves">Ocean Waves</string>
+    <string name="ocean_waves_desc">High school besties Taku and Yutaka find their friendship tested when Rikako, a beautiful yet aloof transfer student, arrives. Emotional turbulence, young love, and nostalgic memories crash together in this reflective coming-of-age tale set in a peaceful seaside town.</string>
+
+    <!-- 15. Only Yesterday -->
+    <string name="only_yesterday">Only Yesterday</string>
+    <string name="only_yesterday_desc">Taeko is a city girl with childhood dreams still lingering in her heart. A vacation to the countryside prompts flashbacks to her 5th-grade self—examining everything from first crushes to life’s simple joys. A gentle, introspective film about growing up, looking back, and finding your true path.</string>
+
+    <!-- 16. Paprika -->
+    <string name="paprika">Paprika</string>
+    <string name="paprika_desc">Ever wish you could enter someone else’s dreams? Dr. Atsuko Chiba can—and her dream-diving alter ego, Paprika, helps patients explore their subconscious. But when the technology goes rogue, reality and dreams blur into a psychedelic thrill ride. Surreal, mind-bending, and visually jaw-dropping!</string>
+
+    <!-- 17. Perfect Blue -->
+    <string name="perfect_blue">Perfect Blue</string>
+    <string name="perfect_blue_desc">Mima leaves her pop idol group to pursue an acting career—only to face a disturbing descent into paranoia. Stalkers, violent hallucinations, and a shattered identity create a psychological thriller that questions fame, reality, and how far we’ll go for the spotlight. Intense and haunting!</string>
+
+    <!-- 18. Pom Poko -->
+    <string name="pom_poko">Pom Poko</string>
+    <string name="pom_poko_desc">A band of shape-shifting tanuki (raccoon dogs) fight to protect their forest from human developers. Expect comedic transformations, zany pranks, and a surprising dose of environmental commentary. These furry tricksters pull out all the stops (and yes, their pouches are magic!) to save their home.</string>
+
+    <!-- 19. Ponyo -->
+    <string name="ponyo">Ponyo</string>
+    <string name="ponyo_desc">She’s a goldfish princess who dreams of becoming human, he’s a little boy with a heart of gold. When their worlds collide, they unleash magical chaos on land and sea. Vibrantly animated and sweet as candy, Ponyo is a joyful splash of childlike wonder about love, friendship, and ham (yes, ham!).</string>
+
+    <!-- 20. Porco Rosso -->
+    <string name="porco_rosso">Porco Rosso</string>
+    <string name="porco_rosso_desc">Meet an ex-WWI pilot turned suave bounty hunter who just happens to be cursed with a pig’s face. Porco soars the skies of the Adriatic, dogfighting sky pirates while sipping on tomato juice. A charming aerial adventure about honor, romance, and living on your own terms.</string>
+
+    <!-- 21. Princess Mononoke -->
+    <string name="princess_mononoke">Princess Mononoke</string>
+    <string name="princess_mononoke_desc">A deadly curse sends Ashitaka into the heart of a fierce battle between industrial humans and the ancient spirits of the forest. Caught in the fray is San—Princess Mononoke—raised by wolves and determined to protect nature at any cost. Epic, visually stunning, and a powerful ode to harmony.</string>
+
+    <!-- 22. Spirited Away -->
+    <string name="spirited_away">Spirited Away</string>
+    <string name="spirited_away_desc">While moving to a new home, Chihiro stumbles into a spirit world where her parents become pigs, witches run bathhouses, and dragons might be friends in disguise. Forced to work in this bizarre realm, she learns that courage and kindness can break any spell. Pure magic on-screen!</string>
+
+    <!-- 23. Tales from Earthsea -->
+    <string name="tales_from_earthsea">Tales from Earthsea</string>
+    <string name="tales_from_earthsea_desc">Dragons, magic, and a crumbling balance in the land of Earthsea. Prince Arren and the wizard Sparrowhawk embark on a quest to restore harmony, facing a dark sorcerer bent on immortality. A fantasy epic that weaves together destiny, redemption, and the power of true names.</string>
+
+    <!-- 24. The Boy and the Heron -->
+    <string name="the_boy_and_the_heron">The Boy and the Heron</string>
+    <string name="the_boy_and_the_heron_desc">When a young boy grieving his mother’s death is led by a talking heron into a surreal realm, he confronts new wonders and old traumas. Brimming with Miyazaki’s signature whimsy and heart, this magical journey explores loss, hope, and the fantastical worlds we find within ourselves.</string>
+
+    <!-- 25. The Cat Returns -->
+    <string name="the_cat_returns">The Cat Returns</string>
+    <string name="the_cat_returns_desc">Haru saves a cat on the street—next thing she knows, she\'s whisked away to the Cat Kingdom and betrothed to the Cat Prince! Cue a hilarious and whimsical adventure featuring a suave feline statue come to life and a chase to reclaim Haru’s humanity. Talk about a cat-astrophe!</string>
+
+    <!-- 26. The Girl Who Leapt Through Time -->
+    <string name="the_girl_who_leapt_through_time">The Girl Who Leapt Through Time</string>
+    <string name="the_girl_who_leapt_through_time_desc">High schooler Makoto stumbles on the power to literally leap through time. At first, it’s all fun and games—fixing grades, avoiding mishaps—but each change ripples into unintended consequences. A touching, witty reminder that you can’t outrun the future, no matter how many times you jump back.</string>
+
+    <!-- 27. The Red Turtle -->
+    <string name="the_red_turtle">The Red Turtle</string>
+    <string name="the_red_turtle_desc">A castaway finds himself on a deserted island with one perplexing inhabitant: a mysterious red turtle. This mostly wordless tale unfolds like a meditative fable about survival, companionship, and life’s cycles. Sublime, dreamlike visuals make it a truly unforgettable journey.</string>
+
+    <!-- 28. The Tale of the Princess Kaguya -->
+    <string name="the_tale_of_princess_kaguya">The Tale of the Princess Kaguya</string>
+    <string name="the_tale_of_princess_kaguya_desc">A humble bamboo cutter discovers a tiny girl inside a glowing stalk—and raises her as a princess. Adapted from a classic Japanese folktale, this painterly film follows Kaguya’s struggles with noble life, the suitors who seek her hand, and the mysterious lunar secret in her heart.</string>
+
+    <!-- 29. The Wind Rises -->
+    <string name="the_wind_rises">The Wind Rises</string>
+    <string name="the_wind_rises_desc">Jiro Horikoshi dreams of designing beautiful airplanes and soars into the aviation world at a time when war looms. A stirring, semi-biographical portrait of ambition, love, and the bittersweet reality of creativity under pressure. Miyazaki’s poignant ode to dreams that rise, despite the wind.</string>
+
+    <!-- 30. Whisper of the Heart -->
+    <string name="whisper_of_the_heart">Whisper of the Heart</string>
+    <string name="whisper_of_the_heart_desc">Shizuku, a curious bookworm, keeps noticing the same name on her library cards—sparking a journey to uncover who’s checking out all her favorite books. Discover romance, self-discovery, and a whimsical cat statuette named Baron in this charming ode to youthful creativity and following your heart.</string>
+
+</resources>
