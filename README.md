@@ -31,7 +31,7 @@ This is a **Jetpack Compose** Android app that displays **30 days of movies** in
 ## 🔨 **Installation & Setup**
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/TrinhDangDang/30-Days-Movies-Android-App.git
 open and run in android studio 
 ---
 
